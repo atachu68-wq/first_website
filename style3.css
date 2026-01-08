@@ -1,0 +1,17 @@
+div{
+    display: flex;
+    align-items: center;
+}
+.l{
+    width: 400px;
+}
+hr{
+    height: 0;
+    width: 120px;
+    border: 2px solid;
+    color: brown;
+
+}
+a{
+    color: blue;
+}
